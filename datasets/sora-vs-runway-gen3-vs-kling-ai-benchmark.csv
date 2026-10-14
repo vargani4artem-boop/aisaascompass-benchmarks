@@ -1,0 +1,21 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,Sora vs Runway Gen-3 Alpha vs Kling AI: Enterprise AI Video Generation Benchmark (2026)
+# Canonical URL,https://aisaascompass.com/articles/sora-vs-runway-gen3-vs-kling-ai/
+# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
+# Published Date,2026-10-04,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+OpenAI Sora Enterprise,4.9,4.7,4.9,4.7,4.7,4.800,4.8,Top in Maximum Generation Length
+Runway Gen-3 Alpha,4.4,4.6,4.6,4.6,4.2,4.500,4.5,Top in Camera Motion & Director Tools
+Kling AI 1.5 Pro,4.4,4.4,4.3,4.2,3.9,4.300,4.3,Top in Physics & World Fidelity
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Metric / Capability,OpenAI Sora Enterprise,Runway Gen-3 Alpha,Kling AI 1.5 Pro,Top Pick
+Maximum Generation Length,Up to 60 seconds,Up to 10 seconds per shot,Up to 10 seconds per shot,OpenAI Sora
+Camera Motion & Director Tools,Prompt-guided parameters,Motion Brush + Camera Presets,Linear / Pan / Zoom controls,Runway Gen-3 (Decisive)
+Physics & World Fidelity,Highest (Fluid & collisions),High (Cinematic lighting),Very High (Human motion),Sora / Kling Tie
+Enterprise API & Rendering Speed,Dedicated cloud queue,Sub-60s cloud rendering,Fast batch rendering,Runway & Kling
+Commercial Licensing & Indemnity,Enterprise ZDR & IP Warranty,Full commercial ownership,Commercial plan rights,Runway / OpenAI
+Pricing Model,Enterprise Tiered,From $12/mo ($76/mo Pro),From $10/mo ($37/mo Pro),Kling (Best Value)
+Editorial Score,4.8 / 5.0,4.5 / 5.0,4.3 / 5.0,Runway (Production) / Sora (World Simulation)

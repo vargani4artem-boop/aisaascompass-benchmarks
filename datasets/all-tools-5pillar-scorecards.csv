@@ -1,0 +1,45 @@
+﻿Tool ID,Platform Name,Category,Evaluation Tier,Reliability (30%),Integration (25%),Security (20%),UX & Speed (15%),TCO Value (10%),Exact Weighted Sum,Published Rating (/5.0),Pricing Model
+cursor-ide,Cursor IDE,dev-tools,Lab Tested (Hands-On API & Sandbox),5.0,4.9,4.8,4.9,4.7,4.89,4.9,Freemium ($20/mo Pro)
+relevance-ai,Relevance AI,ai-agents,Enterprise Spec & TCO Audit,4.6,4.6,4.7,4.3,3.9,4.505,4.5,Paid (from $199/mo)
+clay-com,Clay.com,b2b-sales,Lab Tested (Hands-On API & Sandbox),4.9,5.0,4.7,4.5,4.6,4.795,4.8,Usage Tiered (from $149/mo)
+elevenlabs,ElevenLabs Voice AI,ai-agents,Lab Tested (Hands-On API & Sandbox),5.0,4.8,4.8,4.9,4.8,4.875,4.9,Freemium (from $5/mo)
+bolt-new,Bolt.new (StackBlitz),dev-tools,Lab Tested (Hands-On API & Sandbox),4.7,4.7,4.5,4.9,4.8,4.7,4.7,Freemium ($20/mo Pro)
+lovable-dev,Lovable.dev,dev-tools,Lab Tested (Hands-On API & Sandbox),4.8,4.9,4.6,4.9,4.7,4.79,4.8,From $20/mo
+make-ai-agents,Make.com,ai-agents,Lab Tested (Hands-On API & Sandbox),4.7,4.9,4.6,4.5,4.8,4.71,4.7,Freemium (from $9/mo)
+heygen,HeyGen Enterprise,marketing-tech,Lab Tested (Hands-On API & Sandbox),4.8,4.5,4.6,4.7,4.2,4.61,4.6,From $29/mo
+cognism,Cognism Diamond Data,b2b-sales,Enterprise Spec & TCO Audit,4.7,4.5,4.9,4.1,3.2,4.45,4.5,Enterprise (Custom)
+hubspot-breeze,HubSpot Breeze,b2b-sales,Enterprise Spec & TCO Audit,4.4,4.8,4.7,4.1,3.0,4.375,4.4,From $50/seat/mo
+flux-pro,Flux.1 Pro (BFL),marketing-tech,Lab Tested (Hands-On API & Sandbox),4.9,4.7,4.6,4.8,4.9,4.775,4.8,Pay-as-you-go ($0.05/img)
+pinecone-serverless,Pinecone Serverless,dev-tools,Lab Tested (Hands-On API & Sandbox),4.8,4.7,4.8,4.5,3.9,4.64,4.6,Serverless (Usage-based)
+deepeval,DeepEval (Confident AI),dev-tools,Lab Tested (Hands-On API & Sandbox),4.8,4.6,4.7,4.4,5.0,4.69,4.7,Free OSS / Cloud ($99/mo)
+granola-notes,Granola Notes,productivity,Lab Tested (Hands-On API & Sandbox),4.7,4.3,4.5,4.9,4.7,4.59,4.6,Freemium ($10/mo Pro)
+retell-ai,Retell AI,ai-agents,Lab Tested (Hands-On API & Sandbox),4.9,4.8,4.7,4.8,4.7,4.8,4.8,Usage-based ($0.08/min)
+crewai-enterprise,CrewAI Enterprise,ai-agents,Lab Tested (Hands-On API & Sandbox),4.6,4.6,4.4,4.2,4.7,4.51,4.5,From $99/mo
+intercom-fin,Intercom Fin 2,ai-agents,Enterprise Spec & TCO Audit,4.6,4.5,4.7,4.2,2.9,4.365,4.4,$0.99 / resolution
+apollo-io,Apollo.io AI,b2b-sales,Lab Tested (Hands-On API & Sandbox),4.5,4.8,4.4,4.6,4.9,4.61,4.6,Freemium ($49/seat/mo)
+fathom-ai,Fathom AI,productivity,Lab Tested (Hands-On API & Sandbox),4.8,4.7,4.7,4.9,5.0,4.79,4.8,Free / $19/seat/mo
+perplexity-enterprise,Perplexity Enterprise Pro,productivity,Enterprise Spec & TCO Audit,4.6,4.2,4.8,4.6,3.6,4.44,4.4,$40 / user / mo
+qdrant-db,Qdrant,dev-tools,Lab Tested (Hands-On API & Sandbox),4.9,4.7,4.8,4.6,5.0,4.795,4.8,Free OSS / Managed Cloud
+notion-ai,Notion AI,productivity,Lab Tested (Hands-On API & Sandbox),4.1,4.4,4.5,4.3,3.6,4.235,4.2,$10 / user / mo
+gamma-app,Gamma App,productivity,Lab Tested (Hands-On API & Sandbox),4.5,4.3,4.4,4.9,4.7,4.51,4.5,Freemium ($15/mo Plus)
+github-copilot,GitHub Copilot Enterprise,dev-tools,Enterprise Spec & TCO Audit,4.3,4.7,4.8,4.3,3.8,4.45,4.5,$39 / user / mo
+trae-ide,Trae IDE,dev-tools,Lab Tested (Hands-On API & Sandbox),4.3,4.2,3.9,4.6,4.9,4.3,4.3,Free (Cloud Preview)
+apify,Apify,dev-tools,Lab Tested (Hands-On API & Sandbox),4.8,4.8,4.6,4.5,4.7,4.705,4.7,Freemium ($49/mo Starter)
+fal-ai,fal.ai,dev-tools,Lab Tested (Hands-On API & Sandbox),4.9,4.8,4.6,4.9,4.8,4.805,4.8,Pay-as-you-go
+mem0,Mem0,ai-agents,Lab Tested (Hands-On API & Sandbox),4.6,4.5,4.4,4.3,4.8,4.51,4.5,Open-Source & Cloud ($19/mo)
+tldv,tl;dv,productivity,Lab Tested (Hands-On API & Sandbox),4.4,4.5,4.3,4.4,4.5,4.415,4.4,Freemium ($18/mo Pro)
+together-ai,Together AI,dev-tools,Lab Tested (Hands-On API & Sandbox),4.8,4.7,4.7,4.6,4.7,4.715,4.7,Pay-as-you-go (per 1M tokens)
+n8n-workflow,n8n,ai-agents,Lab Tested (Hands-On API & Sandbox),4.9,5.0,4.9,4.6,5.0,4.89,4.9,Free Self-Hosted / $20/mo Cloud
+supabase-vector,Supabase Vector,dev-tools,Lab Tested (Hands-On API & Sandbox),4.8,4.9,4.8,4.8,4.9,4.835,4.8,Freemium ($25/mo Pro)
+deepseek-r1,DeepSeek R1 & V3,dev-tools,Lab Tested (Hands-On API & Sandbox),4.9,4.6,4.3,4.6,5.0,4.67,4.7,MIT Open-Source / $0.55/1M API
+tavus-ai,Tavus,marketing-tech,Lab Tested (Hands-On API & Sandbox),4.4,4.4,4.3,4.2,3.9,4.3,4.3,From $39/mo & Usage API
+langfuse,Langfuse,dev-tools,Lab Tested (Hands-On API & Sandbox),4.9,4.8,4.8,4.6,5.0,4.82,4.8,Open-Source / Freemium Cloud
+firecrawl,Firecrawl,dev-tools,Lab Tested (Hands-On API & Sandbox),4.8,4.7,4.5,4.7,4.7,4.69,4.7,Open-Source / Freemium ($16/mo)
+jobber,Jobber,productivity,Lab Tested (Hands-On API & Sandbox),4.9,4.8,4.7,4.9,4.8,4.825,4.8,14-Day Free Trial / From $39/mo
+housecall-pro,Housecall Pro,productivity,Lab Tested (Hands-On API & Sandbox),4.7,4.6,4.6,4.6,4.3,4.6,4.6,14-Day Free Trial / From $59/mo
+servicem8,ServiceM8,productivity,Lab Tested (Hands-On API & Sandbox),4.7,4.3,4.5,4.6,4.9,4.565,4.6,Free Starter Tier / From $29/mo
+projul,Projul,productivity,Enterprise Spec & TCO Audit,4.8,4.6,4.6,4.8,4.6,4.69,4.7,No Per-User Fees / From $399/mo
+doorloop,DoorLoop,b2b-sales,Lab Tested (Hands-On API & Sandbox),4.8,4.8,4.7,4.9,4.7,4.785,4.8,From $69/mo (No Unit Minimum)
+buildium,Buildium,b2b-sales,Enterprise Spec & TCO Audit,4.7,4.5,4.8,4.2,4.1,4.535,4.5,14-Day Free Trial / From $58/mo
+katana-mrp,Katana Cloud Inventory,ai-agents,Lab Tested (Hands-On API & Sandbox),4.9,4.9,4.7,4.8,4.5,4.805,4.8,Free Trial / From $179/mo
+mrpeasy,MRPeasy,ai-agents,Lab Tested (Hands-On API & Sandbox),4.8,4.5,4.7,4.2,4.9,4.625,4.6,30-Day Free Trial / From $49/user/mo
