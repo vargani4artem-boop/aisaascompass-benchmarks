@@ -1,0 +1,20 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,Perplexity Enterprise Pro vs ChatGPT Team: Which AI Research Tool Wins for B2B?
+# Canonical URL,https://aisaascompass.com/articles/perplexity-enterprise-vs-chatgpt-team/
+# Evaluation Tier,Enterprise Spec & TCO Audit
+# Published Date,2026-10-03,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+Perplexity Enterprise Pro,4.6,4.2,4.8,4.6,3.6,4.440,4.4,Top in Real-Time Web Search & Citations
+ChatGPT Team (OpenAI),4.5,4.7,4.6,4.3,4.1,4.500,4.5,Top in Data Analysis & Python Sandbox
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Evaluation Metric,Perplexity Enterprise Pro,ChatGPT Team (OpenAI),Winner
+Real-Time Web Search & Citations,Live indexed web with strict source URLs,Bing Search browsing,Perplexity Pro (Decisive)
+Underlying LLM Flexibility,"Claude 3.5, GPT-4o, Sonar, Gemini Pro","GPT-4o, GPT-4o mini, o1-preview",Perplexity Pro
+Data Analysis & Python Sandbox,Basic tabular parsing,Full Python runtime & chart generation,ChatGPT Team
+Custom Workflow Agents,Perplexity Spaces with file collections,Custom GPTs with Actions & APIs,ChatGPT Team
+Enterprise Admin & SSO,"Okta / Azure AD SSO, SOC2 Type II","SAML SSO, Workspace Console",Tie (Both Enterprise Ready)
+Pricing per User,$40 / user / mo ($400/yr),$25 - $30 / user / mo,ChatGPT Team (Lower Cost)
+Overall Rating,4.4 / 5.0,4.5 / 5.0,"Perplexity for Research, ChatGPT for Creation"

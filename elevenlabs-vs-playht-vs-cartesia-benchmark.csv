@@ -1,0 +1,21 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,ElevenLabs vs PlayHT vs Cartesia: Enterprise Real-Time AI Voice & TTS Benchmark (2026)
+# Canonical URL,https://aisaascompass.com/articles/elevenlabs-vs-playht-vs-cartesia/
+# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
+# Published Date,2026-10-05,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+Cartesia Sonic,4.9,4.8,4.7,4.8,4.7,4.800,4.8,Strength: 85 - 110ms (Fastest)
+ElevenLabs Flash v2.5,5.0,4.8,4.8,4.9,4.8,4.875,4.9,Strength: 115 - 140ms
+PlayHT 2.0 Turbo,4.5,4.3,4.6,4.3,4.1,4.400,4.4,Strength: 130 - 160ms
+Deepgram Aura,4.2,4.4,4.4,4.4,4.0,4.300,4.3,Strength: 150 - 190ms
+OpenAI TTS-1-HD,4.3,4.3,4.2,4.1,3.8,4.200,4.2,Strength: 240 - 320ms
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Platform,Streaming Latency (TTFA),Emotional Intonation,Voice Cloning Fidelity,Multilingual Support,Starting Price,Our Rating
+Cartesia Sonic,85 - 110ms (Fastest),Very High (State Space Model),94% Accuracy,15+ Languages,$0.045 / 1k chars,4.8 / 5.0
+ElevenLabs Flash v2.5,115 - 140ms,Exceptional (Industry Best),99% Exact Match,32+ Languages,$0.050 / 1k chars,4.9 / 5.0
+PlayHT 2.0 Turbo,130 - 160ms,High (Telephony Optimized),95% Accuracy,20+ Languages,$0.040 / 1k chars,4.4 / 5.0
+Deepgram Aura,150 - 190ms,Moderate,Standard Presets,English / Spanish,$0.030 / 1k chars,4.3 / 5.0
+OpenAI TTS-1-HD,240 - 320ms,High (Clean Studio),Preset Only,50+ Languages,$0.030 / 1k chars,4.2 / 5.0

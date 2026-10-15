@@ -1,0 +1,17 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,fal.ai vs Replicate vs Together AI: Serverless Generative Media & LLM Inference Benchmark (2026)
+# Canonical URL,https://aisaascompass.com/articles/fal-ai-vs-replicate-vs-together-ai/
+# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
+# Published Date,2026-10-10,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+fal.ai,4.9,4.8,4.6,4.9,4.8,4.805,4.8,Strength: Fast Diffusion & Generative Media
+Replicate,4.8,4.6,4.5,4.6,4.2,4.600,4.6,Strength: Broad Model Catalog & Cog Containers
+Together AI,4.8,4.7,4.7,4.6,4.7,4.715,4.7,Strength: High-Throughput Open LLMs & GPUs
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Inference Provider,Primary Specialty,Cold Start Latency,Flux.1 Generation Speed,LLM Throughput,Pricing Model
+fal.ai,Fast Diffusion & Generative Media,< 200 ms,380 ms - 600 ms,Targeted / Focused,Usage-Based (Per Second)
+Replicate,Broad Model Catalog & Cog Containers,1.5s - 8.0s,1.2s - 2.5s,Standard (~60 tok/s),Usage-Based (Per Second)
+Together AI,High-Throughput Open LLMs & GPUs,< 150 ms,Dedicated GPU endpoints,140+ tok/s (Llama 3.3),Per 1M Tokens / GPU Hour

@@ -1,0 +1,17 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,"Simpro vs FieldEdge vs ServiceTitan (2026): Commercial Mechanical, HVAC & Electrical Estimating Calculator"
+# Canonical URL,https://aisaascompass.com/articles/servicetitan-vs-fieldedge-vs-simpro-estimating-calculator/
+# Evaluation Tier,Enterprise Spec & TCO Audit
+# Published Date,2026-10-15,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+Simpro,4.7,4.6,4.6,4.4,4.3,4.570,4.6,"Strength: Commercial Mechanical, Electrical & Fire"
+FieldEdge,4.7,4.5,4.8,4.5,4.3,4.600,4.6,Strength: Residential & Light Commercial HVAC
+ServiceTitan,4.3,4.5,4.5,4.5,4.1,4.400,4.4,Strength: High-Volume Residential & Franchise
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Platform,Primary Trade Focus,Blueprint Takeoff Module,Progress & Retention Billing,QuickBooks / Xero Sync,Estimated 12-Mo Cost (12 Users)
+Simpro,"Commercial Mechanical, Electrical & Fire",Built-in Digital Takeoff Add-on,Native Multi-Stage & AIA,"QuickBooks, Xero, NetSuite","$25,880/yr"
+FieldEdge,Residential & Light Commercial HVAC,Flat-Rate Pricebook Assemblies,Basic Deposit & Completion,Real-Time QuickBooks Sync,"$19,600/yr"
+ServiceTitan,High-Volume Residential & Franchise,Titan Construction Module,Requires Pro/Commercial Tier,Batch Export / Intacct,"$48,400/yr"

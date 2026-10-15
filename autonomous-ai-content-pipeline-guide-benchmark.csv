@@ -1,0 +1,19 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,How to Build an Autonomous Multi-Agent Content Pipeline in 2026
+# Canonical URL,https://aisaascompass.com/articles/autonomous-ai-content-pipeline-guide/
+# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
+# Published Date,2026-09-25,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+Perplexity + Claude 3.7 API Pipeline,4.9,4.7,4.9,4.7,4.7,4.800,4.8,Best for Citation-Backed Technical Content
+Make.com + OpenAI GPT-4o Pipeline,4.4,4.6,4.6,4.6,4.2,4.500,4.5,Best for Rapid No-Code Content Ops
+All-in-One SaaS AI Writer Suite,4.3,4.3,4.2,4.1,3.8,4.200,4.2,Best for Non-Technical Marketing Teams
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Pipeline Stage,Agent Responsibility,Recommended Tool/LLM,Output Deliverable
+1. Keyword Clustering,Analyze search intent & group long-tails,SEMrush / Custom Python,Structured Content Brief
+2. Deep Research,Scrape source documentation & verify data,Perplexity API / Claude 3.5,Raw Fact Sheet & Quotes
+3. Drafting & Structure,Compose modular H2/H3 sections & tables,Claude 3.5 Sonnet,Clean Markdown Draft
+4. Verification & QA,Cross-check statistics against real sources,Custom Python Rule-Engine,QA Verification Badge
+5. SEO & Schema,Generate FAQPage & Article JSON-LD,Automated SSG Script,Production-Ready Static HTML

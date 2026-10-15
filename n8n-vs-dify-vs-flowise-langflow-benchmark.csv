@@ -1,0 +1,19 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,Top Visual AI Workflow Builders: n8n vs Dify vs Flowise vs Langflow in 2026
+# Canonical URL,https://aisaascompass.com/articles/n8n-vs-dify-vs-flowise-langflow/
+# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
+# Published Date,2026-10-03,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+n8n (with AI Nodes),4.9,5.0,4.9,4.6,5.0,4.890,4.9,Strength: Full Workflow + AI Integration
+Dify.ai,4.7,4.5,4.8,4.5,4.3,4.600,4.6,Strength: LLM Application Development Hub
+Flowise,4.2,4.4,4.4,4.4,4.0,4.300,4.3,Strength: Visual LangChain UI
+Langflow,4.4,4.4,4.3,4.2,3.9,4.300,4.3,Strength: Python-Native Visual IDE
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Framework,Architecture Type,Self-Hosting,Native Connectors,RAG Pipeline Engine,Best For
+n8n (with AI Nodes),Full Workflow + AI Integration,Docker / Fair-Code OSS,400+ SaaS connectors,Vector Store Nodes & Hybrid Search,Enterprise Ops & Cross-SaaS
+Dify.ai,LLM Application Development Hub,Apache 2.0 Open Source,LLM APIs & Webhooks,"Built-in ETL, Chunking & RAG",Production AI Apps & Bots
+Flowise,Visual LangChain UI,MIT Open Source,LangChain node library,Visual Vector Store Connectors,Fast Rapid Prototyping
+Langflow,Python-Native Visual IDE,MIT Open Source,Custom Python Components,"Native Astra DB, Qdrant, Pinecone",Data Engineers & Python Devs
