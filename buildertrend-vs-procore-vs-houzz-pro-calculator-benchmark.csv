@@ -1,0 +1,17 @@
+﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
+# Article Title,Buildertrend vs Procore vs Houzz Pro (2026): Construction Project Volume & Estimating Cost Calculator
+# Canonical URL,https://aisaascompass.com/articles/buildertrend-vs-procore-vs-houzz-pro-calculator/
+# Evaluation Tier,Enterprise Spec & TCO Audit
+# Published Date,2026-10-17,Last Pricing & Spec Audit,October 2026
+
+=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
+Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
+Buildertrend,4.7,4.6,4.6,4.5,4.5,4.605,4.6,"Strength: Flat Monthly Tier ($499–$1,099/mo)"
+Procore,4.6,4.8,4.7,4.4,4.2,4.600,4.6,Strength: % of Annual Construction Volume (ACV)
+Houzz Pro,4.4,4.2,4.5,4.2,4.0,4.300,4.3,Strength: Base Tier + Per-Seat ($299/mo + $69/seat)
+
+=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
+Platform,Pricing Metric,Ideal Contractor Profile,Takeoff & Estimating,QuickBooks / ERP Sync,"Est. Annual Cost ($6M Volume, 5 PMs)"
+Buildertrend,"Flat Monthly Tier ($499–$1,099/mo)",Custom Home Builders & Remodelers ($1M–$15M),Built-in Takeoff + Proposals,Native QuickBooks & Xero,"$9,588 / year"
+Procore,% of Annual Construction Volume (ACV),Commercial & Civil General Contractors ($10M+),Procore Estimating Module,"Sage 100/300, Viewpoint, NetSuite, QBO","~$17,400 / year"
+Houzz Pro,Base Tier + Per-Seat ($299/mo + $69/seat),Residential Remodelers & Design-Build,Fast 2D/3D Floor Plan & Takeoff,QuickBooks Online Sync,"$6,900 / year"
