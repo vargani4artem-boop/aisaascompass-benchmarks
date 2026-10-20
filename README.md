@@ -28,3 +28,21 @@ Overall Score = 0.30 * Reliability + 0.25 * Integration + 0.20 * Security + 0.15
 12. **[ServiceTitan vs Jobber vs Housecall Pro — Contractor Field Service Pricing & 3-Year TCO Calculator](https://aisaascompass.com/articles/servicetitan-vs-jobber-vs-housecall-pro-pricing/)**
 13. **[DoorLoop vs Buildium vs AppFolio — Property Management Per-Unit Fee & Minimum Calculator](https://aisaascompass.com/articles/doorloop-vs-buildium-vs-appfolio/)**
 14. **[Katana Cloud MRP vs MRPeasy vs Cin7 — Manufacturing ERP & Cobot Automation Payback Calculator](https://aisaascompass.com/articles/katana-mrp-vs-mrpeasy-vs-cin7/)**
+
+
+## 🌐 Official Open-Data Mirrors, Static Portals & Archival Mesh
+
+For distributed verification, crawler accessibility, and permanent archival reproducibility, our 14 B2B software calculators and 65 CSV datasets are mirrored across the following independent portals:
+
+- **GitHub Pages Mirror (`github.io` — DR 96):** [https://vargani4artem-boop.github.io/aisaascompass-benchmarks/](https://vargani4artem-boop.github.io/aisaascompass-benchmarks/)
+- **Surge Static CDN Portal (`surge.sh` — DR 82):** [https://aisaascompass-2026.surge.sh/](https://aisaascompass-2026.surge.sh/)
+- **Githack HTML CDN Mirror (`githack.com` — DR 80):** [https://raw.githack.com/vargani4artem-boop/aisaascompass-benchmarks/main/index.html](https://raw.githack.com/vargani4artem-boop/aisaascompass-benchmarks/main/index.html)
+- **Rentry Open Markdown Hub (`rentry.co` — DR 76):** [https://rentry.co/aisaascompass-benchmarks-2026](https://rentry.co/aisaascompass-benchmarks-2026)
+- **Rentry Org Mirror (`rentry.org` — DR 72):** [https://rentry.org/aisaascompass-benchmarks-2026](https://rentry.org/aisaascompass-benchmarks-2026)
+- **Telegraph Research Note (`telegra.ph` — DR 91):** [https://telegra.ph/NinjaOne-vs-Atera-vs-Syncro-2026-MSP-RMM-Per-Endpoint-vs-Per-Technician-Pricing-Benchmark--14-B2B-Calculators-10-18](https://telegra.ph/NinjaOne-vs-Atera-vs-Syncro-2026-MSP-RMM-Per-Endpoint-vs-Per-Technician-Pricing-Benchmark--14-B2B-Calculators-10-18)
+- **Graph.org Research Mirror (`graph.org` — DR 84):** [https://graph.org/NinjaOne-vs-Atera-vs-Syncro-2026-MSP-RMM-Per-Endpoint-vs-Per-Technician-Pricing-Benchmark--14-B2B-Calculators-10-18](https://graph.org/NinjaOne-vs-Atera-vs-Syncro-2026-MSP-RMM-Per-Endpoint-vs-Per-Technician-Pricing-Benchmark--14-B2B-Calculators-10-18)
+- **Legra.ph Archival Node (`legra.ph` — DR 75):** [https://te.legra.ph/NinjaOne-vs-Atera-vs-Syncro-2026-MSP-RMM-Per-Endpoint-vs-Per-Technician-Pricing-Benchmark--14-B2B-Calculators-10-18](https://te.legra.ph/NinjaOne-vs-Atera-vs-Syncro-2026-MSP-RMM-Per-Endpoint-vs-Per-Technician-Pricing-Benchmark--14-B2B-Calculators-10-18)
+- **DEV Community Engineering Hub (`dev.to` — DR 90):** [https://dev.to/artem_varganich/ninjaone-vs-atera-vs-syncro-2026-msp-rmm-per-endpoint-vs-per-technician-pricing-benchmark-13h0](https://dev.to/artem_varganich/ninjaone-vs-atera-vs-syncro-2026-msp-rmm-per-endpoint-vs-per-technician-pricing-benchmark-13h0)
+- **Substack Benchmark Digest (`substack.com` — DR 92):** [https://artemvarganich.substack.com/p/falai-vs-replicate-vs-together-ai](https://artemvarganich.substack.com/p/falai-vs-replicate-vs-together-ai)
+- **Product Hunt Official Hub (`producthunt.com` — DR 91):** [https://www.producthunt.com/products/ai-saas-compass](https://www.producthunt.com/products/ai-saas-compass)
+- **Internet Archive Snapshot (`archive.org` — DR 94):** [https://web.archive.org/web/20261020060219/https://vargani4artem-boop.github.io/aisaascompass-benchmarks/](https://web.archive.org/web/20261020060219/https://vargani4artem-boop.github.io/aisaascompass-benchmarks/)
