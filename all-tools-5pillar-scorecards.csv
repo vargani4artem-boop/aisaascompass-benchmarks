@@ -43,7 +43,7 @@ doorloop,DoorLoop,b2b-sales,Lab Tested (Hands-On API & Sandbox),4.8,4.8,4.7,4.9,
 buildium,Buildium,b2b-sales,Enterprise Spec & TCO Audit,4.7,4.5,4.8,4.2,4.1,4.535,4.5,14-Day Free Trial / From $58/mo
 katana-mrp,Katana Cloud Inventory,ai-agents,Lab Tested (Hands-On API & Sandbox),4.9,4.9,4.7,4.8,4.5,4.805,4.8,Free Trial / From $179/mo
 mrpeasy,MRPeasy,ai-agents,Lab Tested (Hands-On API & Sandbox),4.8,4.5,4.7,4.2,4.9,4.625,4.6,30-Day Free Trial / From $49/user/mo
-samsara-fleet-ai,Samsara Connected Operations,productivity,Enterprise Spec & TCO Audit,4.8,4.8,4.8,4.5,3.8,4.655,4.6,From $33–$55/vehicle/mo (36-mo contract)
+samsara-fleet-ai,Samsara Connected Operations,productivity,Enterprise Spec & TCO Audit,4.8,4.8,4.8,4.5,3.8,4.655,4.7,From $33–$55/vehicle/mo (36-mo contract)
 motive-telematics,Motive (formerly KeepTruckin),productivity,Enterprise Spec & TCO Audit,4.7,4.6,4.7,4.7,4.5,4.655,4.7,From $35/vehicle/mo
 fishbowl-inventory,Fishbowl Inventory (Advanced WMS),productivity,Enterprise Spec & TCO Audit,4.6,4.7,4.5,4.2,4.3,4.515,4.5,From $329/mo (scaled by active users)
 simpro-enterprise,Simpro Commercial Field Service,productivity,Enterprise Spec & TCO Audit,4.7,4.6,4.6,4.4,4.3,4.57,4.6,Custom quote (~$149–$220/user/mo)
@@ -54,3 +54,8 @@ atera-ai-it,Atera (AI-Powered RMM & PSA),dev-tools,Lab Tested (Hands-On API & Sa
 buildertrend-construction,Buildertrend Construction Management,productivity,Enterprise Spec & TCO Audit,4.7,4.6,4.6,4.5,4.5,4.605,4.6,"From $499–$1,099/mo (Unlimited Users & Subs)"
 toast-restaurant-pos,Toast POS & Restaurant Operations,productivity,Enterprise Spec & TCO Audit,4.8,4.7,4.7,4.7,4.3,4.69,4.7,$0–$165/mo + Card Processing Rates
 clio-legal-ai,Clio Manage & Clio Duo AI,productivity,Enterprise Spec & TCO Audit,4.9,4.9,4.9,4.7,4.4,4.82,4.8,$49–$149/user/mo
+tekmetric-auto-shop,Tekmetric Auto Repair Shop Management,productivity,Enterprise Spec & TCO Audit,4.9,4.8,4.7,4.8,4.7,4.8,4.8,From $199–$399/shop/mo (Unlimited Users)
+zenmaid-cleaning-crm,ZenMaid Residential Cleaning Software,productivity,Lab Tested (Hands-On API & Sandbox),4.7,4.6,4.6,4.9,4.8,4.695,4.7,From $49/mo + $9–$10/cleaner/mo
+appfolio-property-hoa,AppFolio Property & HOA Manager,productivity,Enterprise Spec & TCO Audit,4.9,4.8,4.9,4.8,4.3,4.8,4.8,$0.80–$1.50/unit/mo ($298/mo Minimum)
+sol-ark-15k-hybrid,Sol-Ark 15K All-in-One Hybrid Inverter & EMS,dev-tools,Enterprise Spec & TCO Audit,5.0,4.9,4.9,4.8,4.5,4.875,4.9,"~$6,499 hardware unit (Zero subscription fees)"
+curve-dental-hero,Curve Dental (Curve SuperHero Cloud PMS),productivity,Enterprise Spec & TCO Audit,4.8,4.7,4.8,4.7,4.4,4.72,4.7,From $499–$699/location/mo + Imaging/Claims
