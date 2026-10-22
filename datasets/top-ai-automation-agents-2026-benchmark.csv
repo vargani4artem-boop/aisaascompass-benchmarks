@@ -1,23 +1,6 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,Top 7 AI Automation Agents Transforming Small Business Operations in 2026
-# Canonical URL,https://aisaascompass.com/articles/top-ai-automation-agents-2026/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-09-28,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-Relevance AI,4.6,4.6,4.7,4.3,3.9,4.505,4.5,Strength: B2B Workforce & SDR Agents
-CrewAI Enterprise,4.6,4.6,4.4,4.2,4.7,4.510,4.5,Strength: Multi-Agent Orchestration
-Cognition Devin / Enterprise,4.4,4.6,4.5,4.2,4.0,4.400,4.4,Strength: Autonomous Software & Scripting
-Make AI Agents,4.3,4.1,4.4,4.1,3.9,4.200,4.2,Strength: Visual Trigger-Action Agent Hub
-Autogen Studio Pro,4.1,4.3,4.3,4.3,3.9,4.200,4.2,Strength: Conversational Multi-Agent Logic
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Tool Name,Primary Specialty,Autonomous Tier,Best For,Starting Price,Our Rating
-Relevance AI,B2B Workforce & SDR Agents,Level 3.5 Semi-Autonomous,Sales & Ops Automation,$199/mo,4.5 / 5.0
-CrewAI Enterprise,Multi-Agent Orchestration,Level 4 Autonomous,B2B Workflows & Research,$99/mo,4.5 / 5.0
-Cognition Devin / Enterprise,Autonomous Software & Scripting,Level 4 Autonomous,Engineering & Ops,$500/mo,4.4 / 5.0
-Make AI Agents,Visual Trigger-Action Agent Hub,Level 3 Autonomous,SMB Cross-App Sync,$16/mo,4.2 / 5.0
-Autogen Studio Pro,Conversational Multi-Agent Logic,Level 3.5 Semi-Autonomous,Data & Analytical Teams,Cloud $49,4.2 / 5.0
-AgentX Hub,Customer-Facing Autonomous Triage,Level 3 Autonomous,Support & Inbound Inquiries,$39/mo,4.6 / 5.0
-Lindt AI Workflows,Executive Assistant & Scheduling,Level 3 Autonomous,Founders & Solo Ops,$29/mo,4.7 / 5.0
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Relevance AI,4.5,4.6,4.6,4.7,4.3,3.9,4.505,Strength: B2B Workforce & SDR Agents,Lab Tested (Hands-On API & Sandbox),October 2026
+CrewAI Enterprise,4.5,4.6,4.6,4.4,4.2,4.7,4.51,Strength: Multi-Agent Orchestration,Lab Tested (Hands-On API & Sandbox),October 2026
+Cognition Devin / Enterprise,4.4,4.4,4.6,4.5,4.2,4.0,4.4,Strength: Autonomous Software & Scripting,Lab Tested (Hands-On API & Sandbox),October 2026
+Make AI Agents,4.2,4.3,4.1,4.4,4.1,3.9,4.2,Strength: Visual Trigger-Action Agent Hub,Lab Tested (Hands-On API & Sandbox),October 2026
+Autogen Studio Pro,4.2,4.1,4.3,4.3,4.3,3.9,4.2,Strength: Conversational Multi-Agent Logic,Lab Tested (Hands-On API & Sandbox),October 2026

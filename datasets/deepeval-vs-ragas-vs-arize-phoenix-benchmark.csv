@@ -1,21 +1,6 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,DeepEval vs Ragas vs Arize Phoenix: LLM & RAG Evaluation Frameworks Compared (2026)
-# Canonical URL,https://aisaascompass.com/articles/deepeval-vs-ragas-vs-arize-phoenix/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-10-06,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-DeepEval (Confident AI),4.8,4.6,4.7,4.4,5.0,4.690,4.7,Strength: Unit Testing & Regression CI/CD
-Ragas (Exploding Gradients),4.6,4.8,4.7,4.4,4.2,4.600,4.6,Strength: RAG Pipeline Metric Scoring
-Arize Phoenix,4.4,4.2,4.5,4.2,4.0,4.300,4.3,Strength: Production Observability & Tracing
-LangSmith (LangChain),4.2,4.4,4.4,4.4,4.0,4.300,4.3,Strength: LLM Lifecycle & Prompt Evals
-TruLens (TruEra),4.3,4.3,4.2,4.1,3.8,4.200,4.2,Strength: RAG Triad Evaluation
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Framework,Primary Focus,Core Metrics,CI/CD Integration,Production Tracing,Deployment Model,Rating
-DeepEval (Confident AI),Unit Testing & Regression CI/CD,"Hallucination, G-Eval, Toxicity, SQL Eval",Native Pytest Plugin,Yes (Cloud Dashboard),Open Source + Cloud SaaS,4.7 / 5.0
-Ragas (Exploding Gradients),RAG Pipeline Metric Scoring,"Faithfulness, Context Recall, Relevancy",Python Scripts & GitHub Actions,Integrated Tracing,Open Source Python SDK,4.6 / 5.0
-Arize Phoenix,Production Observability & Tracing,"Evals, Latency, Token Cost, Drift",OpenTelemetry Collector,Best-in-class Real-time Trace,Self-Hosted / Cloud,4.3 / 5.0
-LangSmith (LangChain),LLM Lifecycle & Prompt Evals,Custom Evaluators & Datasets,LangChain Native,Deep LangChain Tracing,Cloud / Enterprise VPC,4.3 / 5.0
-TruLens (TruEra),RAG Triad Evaluation,"Context Relevance, Groundedness",Python SDK,Basic Dashboards,Open Source,4.2 / 5.0
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+DeepEval (Confident AI),4.7,4.8,4.6,4.7,4.4,5.0,4.69,Strength: Unit Testing & Regression CI/CD,Lab Tested (Hands-On API & Sandbox),October 2026
+Ragas (Exploding Gradients),4.6,4.6,4.8,4.7,4.4,4.2,4.6,Strength: RAG Pipeline Metric Scoring,Lab Tested (Hands-On API & Sandbox),October 2026
+Arize Phoenix,4.3,4.4,4.2,4.5,4.2,4.0,4.3,Strength: Production Observability & Tracing,Lab Tested (Hands-On API & Sandbox),October 2026
+LangSmith (LangChain),4.3,4.2,4.4,4.4,4.4,4.0,4.3,Strength: LLM Lifecycle & Prompt Evals,Lab Tested (Hands-On API & Sandbox),October 2026
+TruLens (TruEra),4.2,4.3,4.3,4.2,4.1,3.8,4.2,Strength: RAG Triad Evaluation,Lab Tested (Hands-On API & Sandbox),October 2026

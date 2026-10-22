@@ -1,0 +1,4 @@
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Coolify (on Hetzner VPS),4.8,4.8,4.7,4.8,4.7,4.9,4.77,Strength: $0 (Unlimited Users),Lab Tested (Hands-On API & Sandbox),October 2026
+Render (Team Plan),4.5,4.6,4.6,4.5,4.4,4.1,4.5,Strength: $19 / user / mo,Lab Tested (Hands-On API & Sandbox),October 2026
+Vercel Pro,4.4,4.6,4.4,4.3,4.4,4.0,4.4,Strength: $20 / user / mo,Lab Tested (Hands-On API & Sandbox),October 2026

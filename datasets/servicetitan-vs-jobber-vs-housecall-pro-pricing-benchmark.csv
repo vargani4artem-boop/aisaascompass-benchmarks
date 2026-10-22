@@ -1,17 +1,4 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,ServiceTitan vs Jobber vs Housecall Pro: True Per-Tech Pricing Calculator & Field Service Benchmark (2026)
-# Canonical URL,https://aisaascompass.com/articles/servicetitan-vs-jobber-vs-housecall-pro-pricing/
-# Evaluation Tier,Enterprise Spec & TCO Audit
-# Published Date,2026-10-14,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-Jobber,4.9,4.8,4.7,4.9,4.8,4.825,4.8,Strength: Tiered Flat Plan ($39–$199/mo)
-Housecall Pro,4.7,4.6,4.6,4.6,4.3,4.600,4.6,Strength: Tiered Plan ($59–$299/mo)
-ServiceTitan,4.5,4.5,4.4,4.3,4.0,4.400,4.4,Strength: Per Managed Tech ($250–$450/tech/mo)
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Platform,Pricing Model,Onboarding / Setup Fee,Contract Lock-In,AI Dispatch & Call Booking,12-Month TCO (6 Techs)
-Jobber,Tiered Flat Plan ($39–$199/mo),$0 (Instant Self-Serve),Month-to-Month or Annual,Jobber Copilot & AI Receptionist,"~$2,388 / yr"
-Housecall Pro,Tiered Plan ($59–$299/mo),$0 (Guided Setup Included),Month-to-Month or Annual,HCP Assist AI Voice & Chat,"~$3,588 / yr"
-ServiceTitan,Per Managed Tech ($250–$450/tech/mo),"$5,000 – $35,000+",12–24 Month Binding Contract,Titan Intelligence (Pro Add-on),"$26,000 – $45,000+ / yr"
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Jobber,4.8,4.9,4.8,4.7,4.9,4.8,4.825,Strength: Tiered Flat Plan ($39–$199/mo),Enterprise Spec & TCO Audit,October 2026
+Housecall Pro,4.6,4.7,4.6,4.6,4.6,4.3,4.6,Strength: Tiered Plan ($59–$299/mo),Enterprise Spec & TCO Audit,October 2026
+ServiceTitan,4.4,4.5,4.5,4.4,4.3,4.0,4.4,Strength: Per Managed Tech ($250–$450/tech/mo),Enterprise Spec & TCO Audit,October 2026
