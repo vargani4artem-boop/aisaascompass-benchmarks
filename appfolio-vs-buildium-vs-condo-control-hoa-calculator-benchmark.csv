@@ -1,17 +1,4 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,"AppFolio vs Buildium vs Condo Control (2026): HOA & Property Management Per-Door Fee, Minimum Spend & ACH Calculator"
-# Canonical URL,https://aisaascompass.com/articles/appfolio-vs-buildium-vs-condo-control-hoa-calculator/
-# Evaluation Tier,Enterprise Spec & TCO Audit
-# Published Date,2026-10-20,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-AppFolio Property Manager,4.9,4.8,4.9,4.8,4.3,4.800,4.8,Strength: $298 / month minimum
-Buildium (Growth / Premium),4.7,4.5,4.8,4.2,4.1,4.535,4.5,Strength: $58 – $183 / month
-Condo Control,4.2,4.4,4.4,4.4,4.0,4.300,4.3,Strength: $175 / month minimum
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Platform,Monthly Minimum Spend,Per-Door / Per-Unit Rate,Incoming Resident ACH (eCheck) Fee,HOA Violations & Architectural Review,Annual Cost (220 Doors)
-AppFolio Property Manager,$298 / month minimum,$0.80 (HOA) – $1.49 (Residential),$0.00 (Free Online Resident ACH),Mobile App GPS Violation Photo Capture,"$3,934 / year"
-Buildium (Growth / Premium),$58 – $183 / month,Tiered by Unit Count (~$1.15–$1.35),$0.00 on Growth & Premium ($1.25 on Essential),Full CC&R Violation & Board Portal,"$3,588 / year"
-Condo Control,$175 / month minimum,~$1.25 – $1.60 / unit / mo,Integrated Rotessa / Stripe ACH,Best-in-Class Proxy E-Voting & Concierge,"$3,720 / year"
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+AppFolio Property Manager,4.8,4.9,4.8,4.9,4.8,4.3,4.8,Strength: $298 / month minimum,Enterprise Spec & TCO Audit,October 2026
+Buildium (Growth / Premium),4.5,4.7,4.5,4.8,4.2,4.1,4.535,Strength: $58 – $183 / month,Enterprise Spec & TCO Audit,October 2026
+Condo Control,4.3,4.2,4.4,4.4,4.4,4.0,4.3,Strength: $175 / month minimum,Enterprise Spec & TCO Audit,October 2026

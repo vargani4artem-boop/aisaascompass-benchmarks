@@ -1,17 +1,4 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,Supabase pgvector vs Pinecone Serverless vs Qdrant: Production RAG Latency & Cost at 10M Vectors
-# Canonical URL,https://aisaascompass.com/articles/supabase-pgvector-vs-pinecone-vs-qdrant/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-10-13,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-Qdrant,4.9,4.7,4.8,4.6,5.0,4.795,4.8,Best Overall Architecture & TCO
-Pinecone Serverless,4.8,4.7,4.8,4.5,3.9,4.640,4.6,Strength: Storage-Compute Disaggregated Cloud
-Supabase (pgvector),4.8,4.9,4.8,4.8,4.9,4.835,4.8,Strength: PostgreSQL + HNSW / DiskANN
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Vector Engine,Core Architecture,p95 Latency (10M Vectors),Metadata Filtering,Hybrid Search (Dense+Sparse),Deployment Model
-Qdrant,Dedicated Rust Engine (HNSW + Quantization),6.8 ms,Single-Stage Filtered HNSW,Native Sparse + Dense Vectors,Open-Source / Cloud / BYOC
-Pinecone Serverless,Storage-Compute Disaggregated Cloud,14.2 ms,Serverless Namespace Partitioning,Supported (Dotproduct Hybrid),100% Managed Cloud
-Supabase (pgvector),PostgreSQL + HNSW / DiskANN,18.5 ms,Full SQL Joins & Postgres RLS,tsvector Full-Text + RRF SQL,Open-Source / Managed Postgres
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Qdrant,4.8,4.9,4.7,4.8,4.6,5.0,4.795,Best Overall Architecture & TCO,Lab Tested (Hands-On API & Sandbox),October 2026
+Pinecone Serverless,4.6,4.8,4.7,4.8,4.5,3.9,4.64,Strength: Storage-Compute Disaggregated Cloud,Lab Tested (Hands-On API & Sandbox),October 2026
+Supabase (pgvector),4.8,4.8,4.9,4.8,4.8,4.9,4.835,Strength: PostgreSQL + HNSW / DiskANN,Lab Tested (Hands-On API & Sandbox),October 2026

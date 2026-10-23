@@ -1,19 +1,5 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,LangChain vs LlamaIndex vs CrewAI: Which Multi-Agent Framework Wins in 2026?
-# Canonical URL,https://aisaascompass.com/articles/langchain-vs-llamaindex-vs-crewai/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-10-01,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-LangGraph (LangChain),4.8,4.9,4.9,4.6,4.6,4.795,4.8,Strength: Cyclical Multi-Agent State Machine
-LlamaIndex Workflows,4.6,4.4,4.7,4.4,4.2,4.500,4.5,Strength: Data Framework & Advanced RAG
-CrewAI Enterprise,4.6,4.6,4.4,4.2,4.7,4.510,4.5,Strength: Role-Based Collaborative Teams
-Autogen (Microsoft),4.4,4.4,4.3,4.2,3.9,4.300,4.3,Strength: Conversational Multi-Agent Logic
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Framework,Primary Core Specialty,State Graph Control,RAG & Indexing Depth,Learning Curve,Score
-LangGraph (LangChain),Cyclical Multi-Agent State Machine,Highest (Exact control),Broad (via LangChain),Steep,4.8 / 5.0
-LlamaIndex Workflows,Data Framework & Advanced RAG,Event-Driven Async,Best in Class,Moderate,4.5 / 5.0
-CrewAI Enterprise,Role-Based Collaborative Teams,Hierarchical / Sequential,Integrated connectors,Easiest,4.5 / 5.0
-Autogen (Microsoft),Conversational Multi-Agent Logic,Flexible Chat,Basic,Moderate,4.3 / 5.0
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+LangGraph (LangChain),4.8,4.8,4.9,4.9,4.6,4.6,4.795,Strength: Cyclical Multi-Agent State Machine,Lab Tested (Hands-On API & Sandbox),October 2026
+LlamaIndex Workflows,4.5,4.6,4.4,4.7,4.4,4.2,4.5,Strength: Data Framework & Advanced RAG,Lab Tested (Hands-On API & Sandbox),October 2026
+CrewAI Enterprise,4.5,4.6,4.6,4.4,4.2,4.7,4.51,Strength: Role-Based Collaborative Teams,Lab Tested (Hands-On API & Sandbox),October 2026
+Autogen (Microsoft),4.3,4.4,4.4,4.3,4.2,3.9,4.3,Strength: Conversational Multi-Agent Logic,Lab Tested (Hands-On API & Sandbox),October 2026

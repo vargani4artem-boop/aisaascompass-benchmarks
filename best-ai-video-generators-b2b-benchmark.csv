@@ -1,21 +1,6 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,Top 5 AI Video Generation Platforms for B2B Product Demos and Training
-# Canonical URL,https://aisaascompass.com/articles/best-ai-video-generators-b2b/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-09-28,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-HeyGen Enterprise,4.8,4.5,4.6,4.7,4.2,4.610,4.6,Strength: SaaS Demos & Sales Outreach
-Synthesia 2.0,4.7,4.7,4.6,4.5,4.2,4.600,4.6,Strength: Corporate Training & Compliance
-Runway Gen-3 Alpha,4.6,4.4,4.3,4.4,4.0,4.400,4.4,Strength: Cinematic B-Roll & VFX
-ElevenLabs Voice & Video,5.0,4.8,4.8,4.9,4.8,4.875,4.9,Strength: Voice Cloning & Audio Dubbing
-Colossyan Creator,4.3,4.1,4.4,4.1,3.9,4.200,4.2,Strength: Workplace Learning & Quizzes
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Platform,Primary Use Case,Avatar Realism,Voice Lip-Sync Dubbing,Starting Price,Rating
-HeyGen Enterprise,SaaS Demos & Sales Outreach,9.8 / 10 (Indistinguishable),40+ Languages Flawless,$29/mo,4.6 / 5.0
-Synthesia 2.0,Corporate Training & Compliance,9.5 / 10 (Studio Quality),120+ Languages,$22/mo,4.6 / 5.0
-Runway Gen-3 Alpha,Cinematic B-Roll & VFX,Photorealistic Physics,Text-to-Video Focus,$12/mo,4.4 / 5.0
-ElevenLabs Voice & Video,Voice Cloning & Audio Dubbing,Best Audio in the World,95+ Languages,$5/mo,4.9 / 5.0
-Colossyan Creator,Workplace Learning & Quizzes,9.0 / 10,70+ Languages,$19/mo,4.2 / 5.0
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+HeyGen Enterprise,4.6,4.8,4.5,4.6,4.7,4.2,4.61,Strength: SaaS Demos & Sales Outreach,Lab Tested (Hands-On API & Sandbox),October 2026
+Synthesia 2.0,4.6,4.7,4.7,4.6,4.5,4.2,4.6,Strength: Corporate Training & Compliance,Lab Tested (Hands-On API & Sandbox),October 2026
+Runway Gen-3 Alpha,4.4,4.6,4.4,4.3,4.4,4.0,4.4,Strength: Cinematic B-Roll & VFX,Lab Tested (Hands-On API & Sandbox),October 2026
+ElevenLabs Voice & Video,4.9,5.0,4.8,4.8,4.9,4.8,4.875,Strength: Voice Cloning & Audio Dubbing,Lab Tested (Hands-On API & Sandbox),October 2026
+Colossyan Creator,4.2,4.3,4.1,4.4,4.1,3.9,4.2,Strength: Workplace Learning & Quizzes,Lab Tested (Hands-On API & Sandbox),October 2026

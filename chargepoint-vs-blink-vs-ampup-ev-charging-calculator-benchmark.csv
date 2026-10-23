@@ -1,0 +1,4 @@
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+AmpUp Open-OCPP CSMS,4.8,4.8,4.9,4.8,4.7,4.8,4.81,Strength: $150 / port / year,Enterprise Spec & TCO Audit,October 2026
+ChargePoint Commercial Cloud,4.7,4.9,4.7,4.8,4.8,4.0,4.725,Strength: $370 / port / year,Enterprise Spec & TCO Audit,October 2026
+Blink Host-Owned Network,4.5,4.5,4.5,4.6,4.4,4.2,4.475,Strength: $240 / port / year,Enterprise Spec & TCO Audit,October 2026

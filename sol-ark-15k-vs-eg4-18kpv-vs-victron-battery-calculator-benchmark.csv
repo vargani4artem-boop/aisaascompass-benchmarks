@@ -1,17 +1,4 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,Sol-Ark 15K vs EG4 18kPV vs Victron MultiPlus-II (2026): 48V LiFePO4 Server-Rack Battery Bank & Cold-Temp VOC Calculator
-# Canonical URL,https://aisaascompass.com/articles/sol-ark-15k-vs-eg4-18kpv-vs-victron-battery-calculator/
-# Evaluation Tier,Enterprise Spec & TCO Audit
-# Published Date,2026-10-20,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-Sol-Ark 15K-2P-N,5.0,4.9,4.9,4.8,4.5,4.875,4.9,"Strength: ~$6,499"
-EG4 18kPV-12LV,4.4,4.6,4.6,4.6,4.2,4.500,4.5,"Strength: ~$4,899"
-Dual Victron MultiPlus-II 48/5000,4.5,4.5,4.4,4.3,4.0,4.400,4.4,"Strength: ~$5,600 (w/ Cerbo + MPPTs)"
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Hybrid Inverter System,Hardware Unit Price,Max Continuous Battery Output,Grid Pass-Through Relay,MPPT Input Ceiling (Cold VOC),6-Rack (30.7 kWh) Full BOM
-Sol-Ark 15K-2P-N,"~$6,499",12.0 kW (15.0 kW w/ PV),200A Built-In Transfer Switch,"500V DC (3 MPPTs, 19.5kW PV)","$14,893 ($10,425 after ITC)"
-EG4 18kPV-12LV,"~$4,899",12.0 kW (18.0 kW PV Input),200A Built-In Transfer Switch,"600V DC (3 MPPTs, 18.0kW PV)","$13,293 ($9,305 after ITC)"
-Dual Victron MultiPlus-II 48/5000,"~$5,600 (w/ Cerbo + MPPTs)",8.0 kW Cont / 18.0 kW Surge,External / 2x50A Transfer,250V / 450V SmartSolar MPPT,"$13,994 ($9,796 after ITC)"
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Sol-Ark 15K-2P-N,4.9,5.0,4.9,4.9,4.8,4.5,4.875,"Strength: ~$6,499",Enterprise Spec & TCO Audit,October 2026
+EG4 18kPV-12LV,4.5,4.4,4.6,4.6,4.6,4.2,4.5,"Strength: ~$4,899",Enterprise Spec & TCO Audit,October 2026
+Dual Victron MultiPlus-II 48/5000,4.4,4.5,4.5,4.4,4.3,4.0,4.4,"Strength: ~$5,600 (w/ Cerbo + MPPTs)",Enterprise Spec & TCO Audit,October 2026

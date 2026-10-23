@@ -1,18 +1,4 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,Programmatic SEO for B2B SaaS: How to Scale High-Intent Organic Traffic in 2026
-# Canonical URL,https://aisaascompass.com/articles/programmatic-seo-saas-guide/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-09-27,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-Next.js / Python Static + JSON DB Stack,4.9,4.9,4.8,4.7,4.4,4.800,4.8,Best for Sub-50ms Core Web Vitals & Crawl Budget
-Webflow + Whalesync + Airtable Stack,4.7,4.5,4.4,4.5,4.1,4.500,4.5,Best for No-Code Marketing Teams (<5k Pages)
-WordPress Custom Post Type pSEO Stack,4.2,4.4,4.3,4.0,3.8,4.200,4.2,Best for Legacy Editorial Sites
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Template Type,Example Search Query,Monthly Search Volume,Commercial Intent,Conversion Rate
-Integration Pages,Connect Salesforce with Notion,High (50k+ / mo),High (Ready to buy),4.8%
-Comparison Pages,HubSpot vs Salesforce for Startups,High (30k+ / mo),Very High (Evaluating),6.2%
-Calculators / Tools,SaaS Churn Rate Calculator,Medium (15k+ / mo),Mid-High (Lead Magnet),8.5%
-Alternative Pages,Best Zapier Alternatives in 2026,High (40k+ / mo),Extreme (Ready to switch),7.1%
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Next.js / Python Static + JSON DB Stack,4.8,4.9,4.9,4.8,4.7,4.4,4.8,Best for Sub-50ms Core Web Vitals & Crawl Budget,Lab Tested (Hands-On API & Sandbox),October 2026
+Webflow + Whalesync + Airtable Stack,4.5,4.7,4.5,4.4,4.5,4.1,4.5,Best for No-Code Marketing Teams (<5k Pages),Lab Tested (Hands-On API & Sandbox),October 2026
+WordPress Custom Post Type pSEO Stack,4.2,4.2,4.4,4.3,4.0,3.8,4.2,Best for Legacy Editorial Sites,Lab Tested (Hands-On API & Sandbox),October 2026

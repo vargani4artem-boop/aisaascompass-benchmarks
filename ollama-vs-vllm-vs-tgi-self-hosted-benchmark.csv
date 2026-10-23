@@ -1,21 +1,6 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,vLLM vs Ollama vs TGI: The Ultimate Self-Hosted Enterprise LLM Inference Benchmark (2026)
-# Canonical URL,https://aisaascompass.com/articles/ollama-vs-vllm-vs-tgi-self-hosted/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-10-09,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-vLLM v0.6+,4.8,4.9,4.9,4.6,4.6,4.795,4.8,"Strength: 1,850 tok/sec (Concurrent)"
-Hugging Face TGI,4.7,4.5,4.8,4.5,4.3,4.600,4.6,"Strength: 1,620 tok/sec"
-Ollama,4.2,4.4,4.4,4.4,4.0,4.300,4.3,Strength: 420 tok/sec (Single Batch)
-TensorRT-LLM (NVIDIA),4.4,4.4,4.3,4.2,3.9,4.300,4.3,"Strength: 1,980 tok/sec (Fastest Raw)"
-SGLang,4.4,4.2,4.1,4.2,3.8,4.200,4.2,"Strength: 1,880 tok/sec"
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Engine,Max Token Throughput (Tokens/sec),KV-Cache Management,Multi-GPU Tensor Parallelism,Quantization Support (AWQ/GPTQ/FP8),Target Deployment,Rating
-vLLM v0.6+,"1,850 tok/sec (Concurrent)",PagedAttention v2 (Best),Native Ray / NCCL Parallelism,"AWQ, GPTQ, FP8, INT4/INT8",Production Enterprise APIs,4.8 / 5.0
-Hugging Face TGI,"1,620 tok/sec",Paged KV-Cache,Native NCCL / Multi-GPU,"AWQ, EETQ, BitsAndBytes",Kubernetes Production,4.6 / 5.0
-Ollama,420 tok/sec (Single Batch),GGUF llama.cpp Engine,Limited (Multi-device),GGUF Quantization (Q4_K_M),Local Dev & Edge Servers,4.3 / 5.0
-TensorRT-LLM (NVIDIA),"1,980 tok/sec (Fastest Raw)",In-Flight Batching,Optimized CUDA / NVLink,"FP8, INT8 TensorRT",NVIDIA DGX Enterprise,4.3 / 5.0
-SGLang,"1,880 tok/sec",RadixAttention (Multi-Turn),Native Multi-GPU,"AWQ, FP8",Complex Multi-Call Agents,4.2 / 5.0
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+vLLM v0.6+,4.8,4.8,4.9,4.9,4.6,4.6,4.795,"Strength: 1,850 tok/sec (Concurrent)",Lab Tested (Hands-On API & Sandbox),October 2026
+Hugging Face TGI,4.6,4.7,4.5,4.8,4.5,4.3,4.6,"Strength: 1,620 tok/sec",Lab Tested (Hands-On API & Sandbox),October 2026
+Ollama,4.3,4.2,4.4,4.4,4.4,4.0,4.3,Strength: 420 tok/sec (Single Batch),Lab Tested (Hands-On API & Sandbox),October 2026
+TensorRT-LLM (NVIDIA),4.3,4.4,4.4,4.3,4.2,3.9,4.3,"Strength: 1,980 tok/sec (Fastest Raw)",Lab Tested (Hands-On API & Sandbox),October 2026
+SGLang,4.2,4.4,4.2,4.1,4.2,3.8,4.2,"Strength: 1,880 tok/sec",Lab Tested (Hands-On API & Sandbox),October 2026

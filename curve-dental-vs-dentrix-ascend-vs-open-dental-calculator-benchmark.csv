@@ -1,17 +1,4 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,"Curve Dental vs Dentrix Ascend vs Open Dental (2026): Per-Operatory Cloud PMS, 3D Imaging Bridge & E-Claims Fee Calculator"
-# Canonical URL,https://aisaascompass.com/articles/curve-dental-vs-dentrix-ascend-vs-open-dental-calculator/
-# Evaluation Tier,Enterprise Spec & TCO Audit
-# Published Date,2026-10-20,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-Open Dental,4.6,4.8,4.8,4.8,4.4,4.700,4.7,Strength: $179/mo Yr 1 ($129/mo Yr 2+)
-Curve Dental SuperHero,4.8,4.7,4.8,4.7,4.4,4.720,4.7,Strength: $549–$699 / location / mo
-Dentrix Ascend,4.6,4.4,4.3,4.4,4.0,4.400,4.4,Strength: $550–$750 / location / mo
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Platform,Base Monthly License,Native Cloud X-Ray Imaging,Two-Way Patient Texting & Forms,Database Access & Portability,"3-Year TCO (6 Chairs, 450 Claims/mo)"
-Open Dental,$179/mo Yr 1 ($129/mo Yr 2+),Via Apteryx / DEXIS / Vatech Bridge,Integrated eServices ($165/mo bundle),Full Open MySQL / MariaDB Access,"$17,460 / 3 years"
-Curve Dental SuperHero,$549–$699 / location / mo,Included Native Curve Beam Cloud,Included (Curve Gro SMS & Intake),Cloud Export (Proprietary Schema),"$29,340 / 3 years"
-Dentrix Ascend,$550–$750 / location / mo,Included Native DEXIS Cloud Imaging,Included Patient Engage Module,Enterprise DSO Multi-Site Reporting,"$31,860 / 3 years"
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Open Dental,4.7,4.6,4.8,4.8,4.8,4.4,4.7,Strength: $179/mo Yr 1 ($129/mo Yr 2+),Enterprise Spec & TCO Audit,October 2026
+Curve Dental SuperHero,4.7,4.8,4.7,4.8,4.7,4.4,4.72,Strength: $549–$699 / location / mo,Enterprise Spec & TCO Audit,October 2026
+Dentrix Ascend,4.4,4.6,4.4,4.3,4.4,4.0,4.4,Strength: $550–$750 / location / mo,Enterprise Spec & TCO Audit,October 2026

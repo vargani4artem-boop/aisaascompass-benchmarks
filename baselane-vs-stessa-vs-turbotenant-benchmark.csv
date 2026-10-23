@@ -1,17 +1,4 @@
-﻿# AI SaaS Compass — Open Benchmark & 5-Pillar Scorecard Dataset
-# Article Title,"Baselane vs Stessa vs TurboTenant: Landlord Banking, Schedule E Accounting & Tenant Screening Benchmark (2026)"
-# Canonical URL,https://aisaascompass.com/articles/baselane-vs-stessa-vs-turbotenant/
-# Evaluation Tier,Lab Tested (Hands-On API & Sandbox)
-# Published Date,2026-10-14,Last Pricing & Spec Audit,October 2026
-
-=== SECTION 1: HEAD-TO-HEAD 5-PILLAR PRODUCT SCORECARDS ===
-Platform Name,Reliability (30%),Integration (25%),Security & Governance (20%),UX & Speed (15%),TCO & Value (10%),Exact Weighted Sum,Overall Score (/5.0),Primary Strength / Verdict
-Baselane,4.8,4.9,4.9,4.6,4.6,4.795,4.8,Best Overall Architecture & TCO
-Stessa,4.7,4.5,4.8,4.5,4.3,4.600,4.6,Best for Turnkey Ecosystem & Speed
-TurboTenant,4.2,4.4,4.4,4.4,4.0,4.300,4.3,"Strength: Leasing, Marketing & Tenant Screening"
-
-=== SECTION 2: COMPARATIVE BENCHMARK MATRIX ===
-Platform,Core Focus,Monthly Software Fee,Virtual Bank Sub-Accounts,Automated Schedule E Tax Pack,Listing Syndication
-Baselane,"All-in-One Landlord Banking, Rent & Bookkeeping",$0 Free Core Banking,Unlimited per Property/Unit,Yes (1-Click Tax Package),Partner Syndication
-Stessa,Real Estate Accounting & Portfolio Analytics,$0 Free / $12–$28/mo Pro,Cash Management Accounts,Yes (CPA-Ready Schedule E),RentPrep Integration
-TurboTenant,"Leasing, Marketing & Tenant Screening",$0 Free / $149/yr Pro,No Native Banking,REI Hub Integration,50+ Rental Listing Sites
+Product,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Primary Strength,Evaluation Track,Last Verified
+Baselane,4.8,4.8,4.9,4.9,4.6,4.6,4.795,Best Overall Architecture & TCO,Lab Tested (Hands-On API & Sandbox),October 2026
+Stessa,4.6,4.7,4.5,4.8,4.5,4.3,4.6,Best for Turnkey Ecosystem & Speed,Lab Tested (Hands-On API & Sandbox),October 2026
+TurboTenant,4.3,4.2,4.4,4.4,4.4,4.0,4.3,"Strength: Leasing, Marketing & Tenant Screening",Lab Tested (Hands-On API & Sandbox),October 2026
