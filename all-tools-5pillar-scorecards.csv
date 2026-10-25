@@ -1,4 +1,9 @@
 Tool ID,Tool Name,Category,Pricing Model,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Evaluation Track,Review Slug
+campminder-camp,CampMinder,productivity,"From $4,500/yr (~$11/camper)",4.8,4.9,4.7,4.8,4.9,4.6,4.8,Enterprise Spec & TCO Audit,campminder-vs-ultracamp-vs-camplink-registration-calculator
+shiphero-3pl,ShipHero 3PL WMS,productivity,"From $1,995/mo (3PL Edition)",4.8,4.8,4.9,4.8,4.8,4.6,4.805,Enterprise Spec & TCO Audit,deposco-vs-extensiv-vs-shiphero-3pl-wms-calculator
+cloudbeds-pms,Cloudbeds Hospitality PMS,b2b-sales,From $295/mo (25-Room Property),4.8,4.8,4.9,4.8,4.8,4.7,4.815,Enterprise Spec & TCO Audit,cloudbeds-vs-mews-vs-little-hotelier-pms-calculator
+cloud9-ortho,Cloud 9 Ortho (Planet DDS),productivity,From $450/mo per location,4.8,4.8,4.8,4.8,4.8,4.7,4.79,Enterprise Spec & TCO Audit,dolphin-vs-cloud9-vs-greyfinch-orthodontic-calculator
+roserocket-tms,Rose Rocket TMS,b2b-sales,From $350/mo (3-User Base),4.8,4.8,4.9,4.8,4.9,4.7,4.83,Enterprise Spec & TCO Audit,mcleod-vs-tailwind-vs-rose-rocket-tms-calculator
 cursor-ide,Cursor IDE,dev-tools,Freemium ($20/mo Pro),4.9,5.0,4.9,4.8,4.9,4.7,4.89,Lab Tested (Hands-On API & Sandbox),cursor-vs-windsurf-vs-github-copilot
 relevance-ai,Relevance AI,ai-agents,Paid (from $199/mo),4.5,4.6,4.6,4.7,4.3,3.9,4.505,Enterprise Spec & TCO Audit,top-ai-automation-agents-2026
 clay-com,Clay.com,b2b-sales,Usage Tiered (from $149/mo),4.8,4.9,5.0,4.7,4.5,4.6,4.795,Lab Tested (Hands-On API & Sandbox),apollo-vs-zoominfo-vs-clay
