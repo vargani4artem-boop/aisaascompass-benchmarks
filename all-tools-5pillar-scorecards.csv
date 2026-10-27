@@ -1,4 +1,9 @@
 Tool ID,Tool Name,Category,Pricing Model,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Evaluation Track,Review Slug
+maidcentral-cleaning,MaidCentral ERP,b2b-sales,From $450/mo (Unlimited Users),4.8,4.9,4.8,4.8,4.8,4.7,4.82,Enterprise Spec & TCO Audit,maidcentral-vs-bookingkoala-vs-launch27-cleaning-calculator
+aroya-greenhouse,AROYA (METER Group),productivity,From $450/mo + Sensor Hardware,4.8,4.9,4.8,4.8,4.9,4.6,4.825,Enterprise Spec & TCO Audit,priva-vs-argus-vs-aroya-greenhouse-climate-calculator
+vauto-appraisal,vAuto Provision (Cox Automotive),b2b-sales,"From $1,295/mo per rooftop",4.8,4.9,4.9,4.8,4.8,4.5,4.825,Enterprise Spec & TCO Audit,vauto-vs-accu-trade-vs-laser-appraiser-vin-calculator
+gingr-pet,Gingr Pet Care ERP,b2b-sales,From $105 to $155/mo per facility,4.8,4.8,4.8,4.8,4.9,4.8,4.815,Enterprise Spec & TCO Audit,gingr-vs-revelation-pets-vs-pawfinity-boarding-calculator
+fastweigh-scale,Fast-Weigh Cloud Scale,productivity,From $250/mo per scale location,4.8,4.8,4.9,4.8,4.9,4.7,4.83,Enterprise Spec & TCO Audit,fastweigh-vs-libra-vs-scaleit-truck-scale-calculator
 fastbound-ffl,FastBound FFL Compliance,productivity,From $99/yr to $85/mo (Unlimited),4.9,4.9,4.9,4.9,4.9,4.9,4.9,Enterprise Spec & TCO Audit,fastbound-vs-trident1-vs-orchid-ffl-calculator
 plotbox-cemetery,PlotBox Cemetery ERP,productivity,From $450/mo + GIS Mapping,4.8,4.9,4.8,4.9,4.8,4.6,4.83,Enterprise Spec & TCO Audit,plotbox-vs-chronicle-vs-cemsites-cemetery-calculator
 rta-fleet,RTA Fleet Management,productivity,From $250/mo (Asset Tier),4.8,4.9,4.8,4.8,4.7,4.8,4.815,Enterprise Spec & TCO Audit,rta-fleet-vs-cetaris-vs-fleetio-truck-shop-calculator
