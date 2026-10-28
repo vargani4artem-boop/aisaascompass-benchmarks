@@ -1,4 +1,9 @@
 Tool ID,Tool Name,Category,Pricing Model,Composite Rating,Reliability (30%),Integration (25%),Security (20%),UX (15%),Value/TCO (10%),Weighted Sum,Evaluation Track,Review Slug
+revolutionehr-optometry,RevolutionEHR Optometry Cloud,b2b-sales,From $395/mo per OD + Add-Ons,4.8,4.8,4.9,4.8,4.8,4.6,4.805,Enterprise Spec & TCO Audit,revolutionehr-vs-crystal-pm-vs-compulink-optometry-calculator
+fleetcost-nexgen,FleetCost & Care (NexGen & Atom),productivity,"From $1,150/mo per yard",4.8,4.9,4.8,4.8,4.8,4.6,4.81,Enterprise Spec & TCO Audit,fleetcost-nexgen-vs-visual-dispatch-vs-rentworks-crane-calculator
+flexibake-bakery,FlexiBake Wholesale Bakery ERP,productivity,From $495/mo + Per-User Licensing,4.8,4.8,4.8,4.8,4.8,4.7,4.79,Enterprise Spec & TCO Audit,flexibake-vs-cybake-vs-wherefour-bakery-erp-calculator
+sitelink-storage,SiteLink Web Edition (Storable),b2b-sales,From $95 to $215/mo per facility,4.8,4.8,4.9,4.8,4.8,4.6,4.805,Enterprise Spec & TCO Audit,sitelink-vs-storedge-vs-easystorage-self-storage-calculator
+linenmaster-laundry,LinenMaster Commercial Laundry ERP,productivity,From $850/mo per plant,4.8,4.9,4.8,4.8,4.8,4.7,4.82,Enterprise Spec & TCO Audit,linenmaster-vs-spindle-vs-bundle-commercial-laundry-calculator
 maidcentral-cleaning,MaidCentral ERP,b2b-sales,From $450/mo (Unlimited Users),4.8,4.9,4.8,4.8,4.8,4.7,4.82,Enterprise Spec & TCO Audit,maidcentral-vs-bookingkoala-vs-launch27-cleaning-calculator
 aroya-greenhouse,AROYA (METER Group),productivity,From $450/mo + Sensor Hardware,4.8,4.9,4.8,4.8,4.9,4.6,4.825,Enterprise Spec & TCO Audit,priva-vs-argus-vs-aroya-greenhouse-climate-calculator
 vauto-appraisal,vAuto Provision (Cox Automotive),b2b-sales,"From $1,295/mo per rooftop",4.8,4.9,4.9,4.8,4.8,4.5,4.825,Enterprise Spec & TCO Audit,vauto-vs-accu-trade-vs-laser-appraiser-vin-calculator
