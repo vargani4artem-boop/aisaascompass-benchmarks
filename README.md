@@ -128,3 +128,21 @@ Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/
 - **[WriteFreely Publishing Hub — writeas.xyz (DR 62)](https://writeas.xyz/4875u882ebjyd)** (`https://writeas.xyz/4875u882ebjyd`)
 - **[Qua.name Fediverse Platform — qua.name (DR 65)](https://qua.name/demo/ai-saas-compass-2026-commercial-fleet-eld-telematics-ai-dashcams-and-freight)** (`https://qua.name/demo/ai-saas-compass-2026-commercial-fleet-eld-telematics-ai-dashcams-and-freight`)
 - **[Université catholique de Louvain Repository — uclouvain.be (DR 85)](https://dataverse.uclouvain.be/dataverse/aisaascompass-legal-pms-pharmacy-erp-2026)** (`https://dataverse.uclouvain.be/dataverse/aisaascompass-legal-pms-pharmacy-erp-2026`)
+
+## New Priority Search-Intent Upgrades & Tier-2 Verified DOFOLLOW Index (v2026.11.18)
+
+### Top Upgraded 2026 Enterprise Benchmarks
+- **[Samsara vs Geotab for Dash Cams (vs Motive 2026): AI Dash Cam, ELD & Fleet Telematics TCO Calculator](https://aisaascompass.com/articles/samsara-vs-motive-vs-geotab-fleet-calculator/)**
+- **[Is Digitail or ezyVet Better for AI Note Taking? (2026 Vet AI SOAP Scribe & PIMS TCO Calculator)](https://aisaascompass.com/articles/ezyvet-vs-shepherd-vs-digitail-vet-calculator/)**
+- **[RTA vs Fleetio (vs Cetaris 2026): Heavy Truck Shop Maintenance & VMRS Parts TCO Calculator](https://aisaascompass.com/articles/rta-fleet-vs-cetaris-vs-fleetio-truck-shop-calculator/)**
+- **[Synthesia vs HeyGen vs Tavus (2026): What AI Video Tool Do B2B Software Companies Standardize On?](https://aisaascompass.com/articles/synthesia-vs-heygen-vs-tavus/)**
+- **[MyCase ROI & Pricing vs Clio vs PracticePanther (2026): Legal Practice Management Calculator](https://aisaascompass.com/articles/clio-vs-mycase-vs-practicepanther-legal-calculator/)**
+
+### Newly Published Verified DOFOLLOW Directories & Technical Monographs (Nov 17–18, 2026)
+- **[LibHunt Open-Source & SaaS Directory (DR 75, DOFOLLOW)](https://www.libhunt.com/r/aisaascompass-benchmarks)**
+- **[Pika.page Enterprise Fleet & Vet AI TCO Monograph (DR 58, DOFOLLOW)](https://aisaascompass.pika.page/posts/samsara-vs-geotab-for-dash-cams-and-digitail-vs-ezyvet-ai-note-taking-2026-enterprise-tco-audit)**
+- **[Webm.ink MSP RMM & Cloud Hosting TCO Audit (DR 58, DOFOLLOW)](https://the.webm.ink/d/or4am1z94q)**
+- **[Rant.li Solar EPC & Electrical Estimating ERP Audit (DR 68)](https://rant.li/bqacw0dq7w)**
+- **[Telkom University Dataverse Waste Hauling & Equipment ERP Study (DR 78)](https://dataverse.telkomuniversity.ac.id/dataverse/aisaascompass-waste-hauling-equipment-erp-2026)**
+- **[Borealis Canadian Dataverse Self-Storage PMS Audit (DR 82)](https://demo.borealisdata.ca/dataverse/aisaascompass-unmanned-self-storage-pms-2026)**
+- **[Noho.st Orthodontic & Optometry Specialty PMS Benchmarks (DR 66)](https://xn--les-saintes-critures-m2b.nyrins-woods.noho.st/aisaascompass2026/ai-saas-compass-2026-orthodontic-and-optometry-specialty-clinic-pms-3d-ceph-4f5b)**
