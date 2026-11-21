@@ -1,4 +1,4 @@
-# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.17)
+# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.20)
 
 Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/)** ([Open Benchmark Hub](https://aisaascompass.com/datasets/) | [136 Evaluated Tools Directory](https://aisaascompass.com/tools/) | [Write for Us & Sponsorship Estimator](https://aisaascompass.com/write-for-us/)).
 
@@ -146,3 +146,18 @@ Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/
 - **[Telkom University Dataverse Waste Hauling & Equipment ERP Study (DR 78)](https://dataverse.telkomuniversity.ac.id/dataverse/aisaascompass-waste-hauling-equipment-erp-2026)**
 - **[Borealis Canadian Dataverse Self-Storage PMS Audit (DR 82)](https://demo.borealisdata.ca/dataverse/aisaascompass-unmanned-self-storage-pms-2026)**
 - **[Noho.st Orthodontic & Optometry Specialty PMS Benchmarks (DR 66)](https://xn--les-saintes-critures-m2b.nyrins-woods.noho.st/aisaascompass2026/ai-saas-compass-2026-orthodontic-and-optometry-specialty-clinic-pms-3d-ceph-4f5b)**
+
+## New Priority Search-Intent Upgrades & Tier-2 Verified DOFOLLOW Index (v2026.11.20)
+
+### Top Upgraded 2026 Enterprise Benchmarks (Nov 20, 2026)
+- **[Dockwa Evaluation for Marina Websites (vs Storable Marine Molo & PierVantage 2026) — Slip Booking & Boatyard TCO Calculator](https://aisaascompass.com/articles/molo-vs-dockwa-vs-piervantage-marina-calculator/)**
+- **[Best Executive AI Meeting Notetakers for HubSpot & Salesforce CRM (2026) — Fathom vs Fireflies vs Granola vs Gong Audit](https://aisaascompass.com/articles/top-ai-meeting-assistants-note-takers/)**
+- **[LangChain vs LlamaIndex vs CrewAI (2026) — Production Latency, Token Overhead & Multi-Agent Architecture Benchmark](https://aisaascompass.com/articles/langchain-vs-llamaindex-vs-crewai/)**
+- **[Glofox Pricing vs Mindbody vs PushPress (2026) — Boutique Gym Software, Branded App & Payment Processing TCO Calculator](https://aisaascompass.com/articles/mindbody-vs-pushpress-vs-glofox-gym-calculator/)**
+
+### Newly Published Verified B2B Startup & Software Directory Profiles (Nov 20, 2026 — 30 / 100)
+- **[Wellfound (AngelList) Verified Startup Profile — wellfound.com (DR 87, DOFOLLOW)](https://wellfound.com/company/ai-saas-compass)**
+- **[Gust Verified Startup Company Profile — gust.com (DR 78, Pure DOFOLLOW `rel=""`)](https://gust.com/companies/ai-saas-compass)**
+- **[EU-Startups Official Startup Database Listing — eu-startups.com (DR 76, Submitted)](https://www.eu-startups.com/directory/)**
+- **[GetLatka B2B SaaS Database Company Listing — getlatka.com (DR 72, Submitted)](https://getlatka.com/add)**
+- **[FeaturedCustomers Verified B2B Software Vendor — featuredcustomers.com (DR 71, Submitted)](https://www.featuredcustomers.com/vendor-solutions)**
