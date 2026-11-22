@@ -1,4 +1,4 @@
-# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.20)
+# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.22)
 
 Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/)** ([Open Benchmark Hub](https://aisaascompass.com/datasets/) | [136 Evaluated Tools Directory](https://aisaascompass.com/tools/) | [Write for Us & Sponsorship Estimator](https://aisaascompass.com/write-for-us/)).
 
@@ -161,3 +161,17 @@ Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/
 - **[EU-Startups Official Startup Database Listing — eu-startups.com (DR 76, Submitted)](https://www.eu-startups.com/directory/)**
 - **[GetLatka B2B SaaS Database Company Listing — getlatka.com (DR 72, Submitted)](https://getlatka.com/add)**
 - **[FeaturedCustomers Verified B2B Software Vendor — featuredcustomers.com (DR 71, Submitted)](https://www.featuredcustomers.com/vendor-solutions)**
+## New Priority Search-Intent Upgrades & Tier-2 Verified DOFOLLOW Index (v2026.11.22)
+
+### Top Upgraded 2026 Enterprise Benchmarks (Nov 22, 2026)
+- **[Conversational AI Video Tools for B2B Software (2026): Tavus CVI vs HeyGen Interactive Avatar vs Synthesia Pricing & TCO](https://aisaascompass.com/articles/synthesia-vs-heygen-vs-tavus/)**
+- **[Zilliz Cloud vs Pinecone for Enterprise RAG (2026): Milvus, Qdrant & Weaviate Latency, BYOC & TCO Benchmark](https://aisaascompass.com/articles/best-vector-databases-rag-benchmarks/)**
+- **[Best AI Coding Assistants for Enterprise Software Teams (2026): Cursor Enterprise vs GitHub Copilot vs Windsurf vs Claude Code](https://aisaascompass.com/articles/top-ai-coding-assistants-enterprise/)**
+- **[Katana vs MRPeasy vs Cin7 Comparison (2026): Cloud Manufacturing MRP Pricing, BOM Traceability & 3-Year TCO Calculator](https://aisaascompass.com/articles/katana-mrp-vs-mrpeasy-vs-cin7/)**
+
+### Newly Published Verified B2B Software Directories & Developer Profiles (Nov 22, 2026 — 35 / 100)
+- **[daily.dev Verified Developer Profile — daily.dev (DR 81, Live Public Profile)](https://daily.dev/artemvarganich)**
+- **[TechnologyAdvice Traction Product Profile — technologyadvice.com (DR 78, Submitted for Review)](https://traction.technologyadvice.com/clicks/products/splash?product_uuid=22551b5f-755f-4eb9-853a-a85e670ac18c)**
+- **[SelectHub Enterprise Software Catalog — selecthub.com (DR 74, DOFOLLOW, Claim Submitted)](https://pmo.selecthub.com/claim-your-product/)**
+- **[Crozdesk / Revleads Business Intelligence Directory — crozdesk.com (DR 73, DOFOLLOW, Application #395930 Accepted)](https://vendor.revleads.com/user/application/395930/submitted/6be1bec8ba7d1a841077aca64da705ac)**
+- **[Startup88 Global Startup Directory — startup88.com (DR 56, DOFOLLOW, Pitch Submitted)](https://startup88.com/)**
