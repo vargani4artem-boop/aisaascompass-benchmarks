@@ -1,4 +1,4 @@
-# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.22)
+# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.25)
 
 Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/)** ([Open Benchmark Hub](https://aisaascompass.com/datasets/) | [136 Evaluated Tools Directory](https://aisaascompass.com/tools/) | [Write for Us & Sponsorship Estimator](https://aisaascompass.com/write-for-us/)).
 
@@ -175,3 +175,17 @@ Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/
 - **[SelectHub Enterprise Software Catalog — selecthub.com (DR 74, DOFOLLOW, Claim Submitted)](https://pmo.selecthub.com/claim-your-product/)**
 - **[Crozdesk / Revleads Business Intelligence Directory — crozdesk.com (DR 73, DOFOLLOW, Application #395930 Accepted)](https://vendor.revleads.com/user/application/395930/submitted/6be1bec8ba7d1a841077aca64da705ac)**
 - **[Startup88 Global Startup Directory — startup88.com (DR 56, DOFOLLOW, Pitch Submitted)](https://startup88.com/)**
+## New Priority Search-Intent Upgrades & Tier-2 Verified DOFOLLOW Index (v2026.11.25)
+
+### Top Upgraded 2026 Enterprise Benchmarks (Nov 25, 2026)
+- **[AI Agents for Ecommerce Automation (2026): n8n vs Make vs Relevance AI vs Gorgias AI Support & Order-Ops TCO](https://aisaascompass.com/articles/top-ai-automation-agents-2026/)**
+- **[Apollo vs ZoomInfo vs Clay (2026): B2B Sales Intelligence Data Accuracy, Credit Burn & 3-Year TCO Calculator](https://aisaascompass.com/articles/apollo-vs-zoominfo-vs-clay/)**
+- **[Syncro vs NinjaOne vs Atera (2026): MSP RMM Per-Technician vs Per-Endpoint Pricing & Break-Even Calculator](https://aisaascompass.com/articles/ninjaone-vs-atera-vs-syncro-rmm-calculator/)**
+- **[Instantly vs Smartlead vs Lemlist (2026): Best Smartlead Alternatives, Cold Email Deliverability & Mailbox TCO Calculator](https://aisaascompass.com/articles/instantly-vs-smartlead-vs-lemlist/)**
+
+### Newly Published Verified Developer & B2B SaaS Marketplace Profiles (Nov 25, 2026 — 40 / 100)
+- **[DZone Enterprise Developer Profile — dzone.com (DR 85, Live Public Profile)](https://dzone.com/users/5642628/aisaascompass.html)**
+- **[Tekpon B2B Software Catalog — tekpon.com (DR 68, DOFOLLOW, Verified Member Profile & Listing Request Confirmed)](https://tekpon.com/contact/)**
+- **[JoinSecret SaaS Marketplace — joinsecret.com (DR 65, DOFOLLOW, SaaS Partnership Application Confirmed)](https://www.joinsecret.com/saas-partnerships)**
+- **[NachoNacho B2B SaaS Marketplace — nachonacho.com (DR 62, DOFOLLOW, Verified Workspace & Vendor Listing Confirmed)](https://nachonacho.com/contact)**
+- **[SaaSMantra Software Marketplace — saasmantra.com (DR 58, DOFOLLOW, 4-Step Launch Submission Confirmed)](https://launch-mantra.paperform.co/)**
