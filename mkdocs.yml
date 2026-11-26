@@ -1,5 +1,6 @@
-site_name: AI SaaS Compass — 2026 Enterprise B2B TCO & AI Benchmarks Documentation
-site_url: https://aisaascompass-benchmarks.readthedocs.io/
-site_description: Technical documentation and reproducible 36-month Total Cost of Ownership (TCO) methodology for Fleet AI Dash Cams, Veterinary AI SOAP Notes, and Heavy Truck Shop ERP software.
+site_name: AI SaaS Compass Open Benchmark Documentation (2026)
+site_description: Independent 5-pillar B2B SaaS & Enterprise AI 3-Year TCO methodology, Ecommerce AI Agent workflow benchmarks, and Multi-Agent LLM latency audits.
+theme:
+  name: readthedocs
 nav:
-  - Home: index.md
+  - Ecommerce AI Agents & Multi-Agent TCO (2026): index.md
