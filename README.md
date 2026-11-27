@@ -1,4 +1,4 @@
-# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.26)
+# AI SaaS Compass — Open Benchmark Datasets & 5-Pillar Scorecard Verifier (v2026.11.27)
 
 Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/)** ([Open Benchmark Hub](https://aisaascompass.com/datasets/) | [136 Evaluated Tools Directory](https://aisaascompass.com/tools/) | [Write for Us & Sponsorship Estimator](https://aisaascompass.com/write-for-us/)).
 
@@ -189,3 +189,18 @@ Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/
 - **[PythonAnywhere Outbound Revenue & Sales CPQ Benchmark — pythonanywhere.com (DR 82, Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://aisaascompass.pythonanywhere.com/)**
 - **[Wasmer Edge Commercial Fleet & Truck Shop VMRS TCO Audit — wasmer.app (DR 72, Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://staticfile-aisaascompass.wasmer.app/)**
 - **[The Ruby Toolbox Healthcare & Vet Clinical EMR Benchmarks — ruby-toolbox.com (DR 72, Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://www.ruby-toolbox.com/projects/aisaascompass_healthcare_emr_benchmarks)**
+
+## New Priority Search-Intent Upgrades & Tier-2 Verified DOFOLLOW Index (v2026.11.27)
+
+### Top Upgraded 2026 Enterprise Benchmarks (Nov 27, 2026)
+- **[ServiceM8 vs Jobber vs Workiz (2026): Field Service Dispatching, Per-Job vs Per-Seat Pricing & 3-Year TCO Calculator](https://aisaascompass.com/articles/servicem8-vs-jobber-vs-workiz/)**
+- **[Deposco vs Extensiv (3PL Central) vs ShipHero (2026): 3PL Warehouse Profile Selector & Multi-Client Billing WMS Calculator](https://aisaascompass.com/articles/deposco-vs-extensiv-vs-shiphero-3pl-wms-calculator/)**
+- **[v0 by Vercel vs Bolt.new vs Lovable.dev (2026): Real 15-Screen MVP Token Burn & Full-Stack AI Builder Audit](https://aisaascompass.com/articles/v0-by-vercel-vs-bolt-new-vs-lovable/)**
+- **[Sora vs Runway Gen-3 Alpha vs Kling AI (2026): Enterprise AI Video Cost-per-Usable-1080p-Minute Benchmark](https://aisaascompass.com/articles/sora-vs-runway-gen3-vs-kling-ai/)**
+
+### Strictly Verified Live DOFOLLOW External Publications & Research Hubs (Nov 27, 2026 — Iron Gate 5/5 Passed, 10 / 50 Total)
+- **[DUB Official D Language Package Registry — code.dlang.org (DR 75, Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://code.dlang.org/packages/aisaascompass-clinical-ai-bench)**
+- **[Mjob.me 3PL WMS & Field Service Dispatch TCO Study — mjob.me (Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://mjob.me/d/nkeaq88s63)**
+- **[Wikify.org AI App Builders & Enterprise Coding Copilots Benchmark — wikify.org (Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://wikify.org/d/pwud8t8td7)**
+- **[PushingElectrons.net Enterprise AI Video Unit Economics Study — pushingelectrons.net (Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://pushingelectrons.net/d/3hre2bgcr8)**
+- **[Txxt.club Legal Practice Management ROI & AI Notetakers Audit — txxt.club (Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://txxt.club/d/oygisjlsgl)**
