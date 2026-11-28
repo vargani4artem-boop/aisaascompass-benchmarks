@@ -204,3 +204,18 @@ Official open-data repository for **[AI SaaS Compass](https://aisaascompass.com/
 - **[Wikify.org AI App Builders & Enterprise Coding Copilots Benchmark — wikify.org (Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://wikify.org/d/pwud8t8td7)**
 - **[PushingElectrons.net Enterprise AI Video Unit Economics Study — pushingelectrons.net (Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://pushingelectrons.net/d/3hre2bgcr8)**
 - **[Txxt.club Legal Practice Management ROI & AI Notetakers Audit — txxt.club (Pure DOFOLLOW `rel=""`, HTTP 200, Indexable)](https://txxt.club/d/oygisjlsgl)**
+
+### November 28, 2026 (`v2026.11.28`) — 4 Search-Intent Calculator Upgrades & 5 Iron-Gate Verified Live `DOFOLLOW` Citations (`15 / 50`)
+
+**Upgraded Interactive Calculators (GSC High-Impression Intent Upgrades):**
+- [PlotBox vs Chronicle vs Cemsites — Cemetery GIS & Drone Mapping 3-Yr TCO](https://aisaascompass.com/articles/plotbox-vs-chronicle-vs-cemsites-cemetery-calculator/)
+- [LMN vs Aspire vs SingleOps — Commercial Landscaping ERP Revenue Break-Even & TCO](https://aisaascompass.com/articles/lmn-vs-aspire-vs-singleops-landscaping-calculator/)
+- [GitHub Copilot vs Windsurf vs Cursor — Enterprise Coding IDE Seat & Agentic TCO](https://aisaascompass.com/articles/cursor-vs-windsurf-vs-github-copilot/)
+- [ElevenLabs vs PlayHT vs Cartesia — Real-Time Voice AI TTFB Latency & 1M-Char Cost Calculator](https://aisaascompass.com/articles/elevenlabs-vs-playht-vs-cartesia/)
+
+**Verified Live `DOFOLLOW` External Publications (Tier-2 Crawl Bridge):**
+- **#11 exitmusic.world** (`exitmusic.world`, `DOFOLLOW`, `2` links, `4105` chars): [Field Property & Geospatial Operations ERP in 2026: Commercial Landscaping Break-Even & Cemetery GIS Digitization Economics](https://exitmusic.world/d/sq5qvoz7a6)
+- **#12 foad.me.uk** (`wrily.foad.me.uk`, `DOFOLLOW`, `3` links, `3862` chars): [Engineering & Real-Time Voice AI Unit Economics (2026): Enterprise Coding IDE TCO and Sub-100ms Telephony TTS Benchmarks](https://wrily.foad.me.uk/d/sysafzxlku)
+- **#13 demorose.me** (`blog.demorose.me`, `DOFOLLOW`, `3` links, `3336` chars): [Production AI Agent Orchestration vs. No-Code Automation (2026): Framework Lock-In and Task-Volume Cost Curves](https://blog.demorose.me/d/53v4dwqz18)
+- **#14 foxylo.xyz** (`blog.foxylo.xyz`, `DOFOLLOW`, `2` links, `3325` chars): [Commercial Fleet Telematics & Heavy-Duty Maintenance ERP (2026): AI Dash Cam Subscriptions vs. VMRS Shop Cost Control](https://blog.foxylo.xyz/d/tf17sxs1wx)
+- **#15 lokipropagand.art** (`historiette.lokipropagand.art`, `DOFOLLOW`, `2` links, `3512` chars): [Modern B2B Outbound Unit Economics (2026): Data Enrichment Credit Burn vs. Multi-Inbox Deliverability Infrastructure](https://historiette.lokipropagand.art/d/nc32mjakzc)
